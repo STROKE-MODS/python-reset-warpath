@@ -117,7 +117,7 @@ while True:
             print("Thanks for using us")
             break
     if b.lower()=="end":
-        print("Than for using us")
+        print("Thanks for using us")
         break
     
         
