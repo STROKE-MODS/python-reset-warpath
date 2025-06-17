@@ -6,5 +6,6 @@ I’m not learning for school. I’m learning for *domination*.
 - 🔥 Day 1 – Full Core Reset
 - 🔥 Day 2 – Object-Oriented + Real-World Utility
 - 🔥 Day 3 - Projects-Marathon
+- 🔥 Day 4 - Done JSON and API 
 By: Stroke   
 Date Started: 14th June, 2025
