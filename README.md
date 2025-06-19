@@ -7,6 +7,6 @@ I’m not learning for school. I’m learning for *domination*.
 - 🔥 Day 2 – Object-Oriented + Real-World Utility
 - 🔥 Day 3 - Projects-Marathon
 - 🔥 Day 4 - Done JSON and API
-- 🔥 Day 5 - CSV and mini project(Added in project repo)
+- 🔥 Day 5 - CSV and mini project(Added in project repo) 
 By: Stroke   
 Date Started: 14th June, 2025
