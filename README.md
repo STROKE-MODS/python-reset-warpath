@@ -13,3 +13,6 @@ I’m not learning for school. I’m learning for *domination*.
 - <h2>Its Time to Comeb back guys lets go to sql projects now.!!</h2>
 By: Stroke   
 Date Started: 14th June, 2025
+<video autoplay muted loop>
+    <source src = "Solo Leveling Jeju Island Arc - SLAVA FUNK! [Edit_AMV] 4K!.mp4" type = "video/mp4" >
+    </video>
