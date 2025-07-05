@@ -12,6 +12,8 @@ I’m not learning for school. I’m learning for *domination*.
 - 🔥 Doing Real Time Challenges ~ 4th Of July
 
 - <h2>Its Time to Comeb back guys lets go to sql projects now.!!</h2>
+<h3>From Now More sql Challenges will be coming in New repo Named Challenges.</h3>
+
 By: Stroke   
 Date Started: 14th June, 2025
 
